@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timelines on Cyber Sentinel</title>
+    <link>http://localhost:1313/timeline/</link>
+    <description>Recent content in Timelines on Cyber Sentinel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/timeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Details Project Proposal</title>
+      <link>http://localhost:1313/timeline/detailed_project_proposal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/timeline/detailed_project_proposal/</guid>
+      <description>Clean UI with small resources. Monochrome has clean UI design with ~5KB gzipped bundled CSS. Self-Contained. Monochrome doesn&amp;rsquo;t require webpack, nodejs and other dependencies to setup or edit, just hugo. Responsive layout. Adapt to different viewpoint, from desktop to mobile. Support light/dark mode. Low-light UI. Multiple layouts built-in. Monochrome now supports 6 different layouts. See Demo. Nested navbar and Multilingual mode. Make good use of hugo&amp;rsquo;s well-designed structure. Syntax Highlighting (with copy feature).</description>
+    </item>
+    
+  </channel>
+</rss>
